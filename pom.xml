@@ -9,7 +9,7 @@
 		<java.version>1.8</java.version>
 		<spring.version>5.3.1</spring.version>
 		<servlet.version>3.1.0</servlet.version>
-		<mysql.version>5.1.9</mysql.version>
+		<mysql.version>8.0.16</mysql.version>
 		<log4j.version>1.2.17</log4j.version>
 		<common-io.version>2.8.0</common-io.version>
 		<common-logging.version>1.2</common-logging.version>
