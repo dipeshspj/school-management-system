@@ -19,7 +19,7 @@ import com.technetsquad.exception.SchoolManagementSystemException;
 import com.technetsquad.service.SchoolMasterService;
 
 @Controller
-@RequestMapping("/schoolmaster")
+@RequestMapping("/scm")
 public class SchoolMasterController {
 
     private static final Logger logger = Logger.getLogger(SchoolMasterController.class);

@@ -15,7 +15,7 @@
 </head>
 
 <body class="bg">
-    <form:form method="post" action="/schoolmaster/saveschoolmaster" onsubmit="return validateSchoolMasterForm();" commandName="school" enctype="multipart/form-data">     
+    <form:form method="post" action="/scm/saveschoolmaster" onsubmit="return validateSchoolMasterForm();" modelAttribute="school" enctype="multipart/form-data">     
  <div class="container ">
             
             <div class="card text-left">

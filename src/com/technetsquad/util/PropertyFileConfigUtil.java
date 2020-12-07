@@ -6,7 +6,7 @@ import org.springframework.core.env.Environment;
 import org.springframework.stereotype.Component;
 
 @Component
-@PropertySource({ "classpath:resources/sql-master.properties", "classpath:resources/sms-generic.properties" })
+@PropertySource({ "classpath:resources/sms-sql-master.properties", "classpath:resources/sms-generic.properties" })
 public class PropertyFileConfigUtil {
 
     @Autowired
